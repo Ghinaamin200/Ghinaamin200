@@ -11,7 +11,7 @@ Experienced Power Apps and Dynamics 365 Senior Consultant with 2 years of experi
 
 <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 
-<img align="center" height="350" width="850" src="https://camo.githubusercontent.com/c2936194df62114ed0c0e6c4bc5923016d4b6098fa2ba7d172813aa9b9d7c2ca/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323233383034312f73637265656e73686f74732f343736333931382f776f726b696e672e676966" data-canonical-src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" style="max-width: 100%;">
+<img align="center" height="350" width="850" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" style="max-width: 100%;">
 
 
 
