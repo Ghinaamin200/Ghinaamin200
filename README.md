@@ -2,15 +2,6 @@
 Experienced Power Apps and Dynamics 365 Senior Consultant with 2 years of experience, seeking a challenging role to leverage my expertise in designing, implementing, and optimizing innovative low-code solutions. I am passionate about driving business efficiency, improving user experience, and contributing to the success of dynamic projects within a collaborative team environment. Proficient in Power Automate, Process Flows, Web API, Power BI reports, Plugins, and web resources. A committed and fast learner seeking new challenges and professional growth.
 </h5>
 
-
-
-
-
-
-
-
-<img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
-
 <img align="center" height="350" width="850" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" style="max-width: 100%;">
 
 
